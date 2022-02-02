@@ -19,7 +19,7 @@ const MarketPlaceLinks = ({ id }: { id: string }) => {
 							<span className="mr-2">
 								<Image src="/oasis_logo.svg" width="20px" height="20px" />
 							</span>
-							OpenSea
+							Oasis
 						</div>
 					</a>
 
@@ -37,7 +37,7 @@ const MarketPlaceLinks = ({ id }: { id: string }) => {
 									height="20px"
 								/>
 							</span>
-							Etherscan
+							Smartscan
 						</div>
 					</a>
 				</>
